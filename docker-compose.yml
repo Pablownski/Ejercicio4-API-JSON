@@ -1,9 +1,11 @@
-
 services:
-  go-server:
+  api:
     build: .
-    container_name: go-server
+    container_name: go-http-api
     ports:
       - "24374:24374"
     volumes:
-      - .:/app
+      - ./data:/app/data
+    restart: unless-stopped
+
+
