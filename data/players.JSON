@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Cristiano Ronaldo",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "current_team": "Al Nassr",
+    "age": 41,
+    "career_goals": 965,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "current_team": "Inter Miami",
+    "age": 38,
+    "career_goals": 899,
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Pelé",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "current_team": "Retired",
+    "age": 82,
+    "career_goals": 762,
+    "active": false
+  },
+  {
+    "id": 4,
+    "name": "Romário",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "current_team": "Retired",
+    "age": 58,
+    "career_goals": 756,
+    "active": false
+  },
+  {
+    "id": 5,
+    "name": "Ferenc Puskás",
+    "nationality": "Hungary",
+    "position": "Forward",
+    "current_team": "Retired",
+    "age": 83,
+    "career_goals": 725,
+    "active": false
+  },
+  {
+    "id": 6,
+    "name": "Josef Bican",
+    "nationality": "Czech Republic",
+    "position": "Forward",
+    "current_team": "Retired",
+    "age": 88,
+    "career_goals": 722,
+    "active": false
+  },
+  {
+    "id": 7,
+    "name": "Robert Lewandowski",
+    "nationality": "Poland",
+    "position": "Forward",
+    "current_team": "FC Barcelona",
+    "age": 37,
+    "career_goals": 689,
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Jimmy Jones",
+    "nationality": "Northern Ireland",
+    "position": "Forward",
+    "current_team": "Retired",
+    "age": 90,
+    "career_goals": 639,
+    "active": false
+  },
+  {
+    "id": 9,
+    "name": "Gerd Müller",
+    "nationality": "Germany",
+    "position": "Forward",
+    "current_team": "Retired",
+    "age": 75,
+    "career_goals": 634,
+    "active": false
+  },
+  {
+    "id": 10,
+    "name": "Joe Bambrick",
+    "nationality": "Northern Ireland",
+    "position": "Forward",
+    "current_team": "Retired",
+    "age": 95,
+    "career_goals": 626,
+    "active": false
+  }
+]
