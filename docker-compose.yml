@@ -1,7 +1,7 @@
 services:
   api:
     build: .
-    container_name: go-http-api
+    container_name: api-json
     ports:
       - "24374:24374"
     volumes:

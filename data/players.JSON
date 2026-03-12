@@ -98,5 +98,15 @@
     "age": 95,
     "career_goals": 626,
     "active": false
+  },
+  {
+    "id": 11,
+    "name": "Cuchito",
+    "nationality": "Guatemala",
+    "position": "Forward",
+    "current_team": "Black Roosters",
+    "age": 20,
+    "career_goals": 99,
+    "active": true
   }
 ]
